@@ -2,11 +2,7 @@
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using System;
-using System.Collections.Generic;
-using System.Globalization;
 using System.IO;
-using System.Reflection;
-using System.Text.RegularExpressions;
 
 namespace EmailLookupApp
 {
